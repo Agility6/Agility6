@@ -1,7 +1,8 @@
 
 <strong> 🤔🤔🤔 </strong>
 
-<img width:"500px" glt="Vs" src="https://s3.bmp.ovh/imgs/2022/06/06/cd3210e4df54c2de.jpg" />
+<!-- <img width:"500px" glt="Vs" src="https://s3.bmp.ovh/imgs/2022/06/06/cd3210e4df54c2de.jpg" /> -->
+![vs](https://s3.bmp.ovh/imgs/2022/06/06/cd3210e4df54c2de.jpg)
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -9,7 +10,7 @@
 
 <!-- ### Hi there 👋 -->
 
-
+<!-- 
 **Agility6/Agility6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+ -->
