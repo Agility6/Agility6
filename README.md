@@ -1,8 +1,8 @@
 
 <strong> 🤔🤔🤔 </strong>
 
-<!-- <img width:"500px" glt="Vs" src="https://s3.bmp.ovh/imgs/2022/06/06/cd3210e4df54c2de.jpg" /> -->
-![vs](https://s3.bmp.ovh/imgs/2022/06/06/cd3210e4df54c2de.jpg)
+### ⭐️ &nbsp;Github Star
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Agilit6&count_private=true&show_icons=true"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
