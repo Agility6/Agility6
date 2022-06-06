@@ -1,4 +1,13 @@
-### Hi there 👋
+
+<strong> 🤔🤔🤔 </strong>
+
+<img width:"500px" glt="Vs" src="https://s3.bmp.ovh/imgs/2022/06/06/cd3210e4df54c2de.jpg" />
+
+### 🛠 &nbsp;Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+
+<!-- ### Hi there 👋 -->
 
 
 **Agility6/Agility6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
