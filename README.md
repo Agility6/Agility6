@@ -8,7 +8,7 @@
 - ✍🏻 Continuous learning...
 
 
-**🦄 Aspire to become a Senior Frontend Engineer**
+**🦄 Aspire to become a Senior Engineer**
  
  
 
