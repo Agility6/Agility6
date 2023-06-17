@@ -1,14 +1,12 @@
 ## Hi! there
 
-**I'm Agility**
-> The essence of magic is thought
+**I'm Agility6**
+> **The essence of magic is thought**
 
 - 🧑🏻‍🎓 Student
-- 💭 Like some cool things
 - ✍🏻 Continuous learning...
 
-
-**🦄 Aspire to become a Senior Engineer**
+**🦄 Aspire to become a software engineer 🦄**
  
  
 
