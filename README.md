@@ -5,8 +5,7 @@
 
 - 🧑🏻‍🎓 Student
 - ✍🏻 Continuous learning...
-
-**🦄 Aspire to become a software engineer 🦄**
+- 💃🏻
  
  
 
